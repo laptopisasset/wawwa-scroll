@@ -1,8 +1,6 @@
-# React + Vite
+# Vite Three Starter Kit
+This project is a initial setup for using Vite and Threejs to create extrodinary experiences.
+Thanks to wawa sensai for providing more knowledge 3d web design and development. Please checkout his content extrodinary explanation on 3d concepts [WawaSensai](https://www.youtube.com/@WawaSensei)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Timeline on learning 3d designs and document
+Start Date: 10/28/2023
